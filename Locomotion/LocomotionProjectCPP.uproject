@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+    "Modules": [
+        {
+            "Name": "LocomotionProjectCPP",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        },
+        {
+            "Name": "Locomotion",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
